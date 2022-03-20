@@ -10,3 +10,12 @@ I wanted so the program would upload the short version of a coub, and then autom
 However, due to the Python library I ended up using "TweePy", this ended in failure. It seems the library does not support the upload of "large" files to Twitter. If I am unable to find a solution to this, I might end up rewriting the program in C# instead (however, then I'd have learn a bit more stuff regarding media conversion etc. but it should be do-able).
 
 Anyhow, I'm going to let it be as it is right now, but I will come back to it when I have the proper time for it.
+
+# Feature requests?
+If you have a feature you think would be nice, let me know by creating an issue on this repo.
+
+# Planned features
+This section is to have an overview over what features I believe the program is currently missing.
+
+* Reply with the long version of a coub, to the short version.
+* Instead of only uploading a single **anime** coub, I could upload one coub, from each category that I have downloaded (I think this would be nice? Would fill the page out a lot faster. Maybe I should create other Twitter profiles for it? I don't know. Let me know what you thinkg).
