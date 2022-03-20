@@ -1,5 +1,5 @@
 # dailycoub
-Repo for the Twitter account @dailycoub
+Repo for the Twitter account [@CoubDaily](https://twitter.com/CoubDaily)
 
 This program is used to upload a coub-a-day, to the previously mentioned Twitter profile.
 
