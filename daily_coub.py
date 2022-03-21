@@ -181,8 +181,8 @@ def more_than_24_hours_ago_since_last_upload():
     if last_upload_time == None or last_upload_time == '':
         return True
 
-    # Check if last upload, plus a days worth of seconds, is less or equal to current time.
-    if float(last_upload_time) + 86400 <= time.time():
+    # Check if last upload, plus a 20 hours worth of seconds, is less or equal to current time.
+    if float(last_upload_time) + 72000 <= time.time():
         return True
     else:
         return False
